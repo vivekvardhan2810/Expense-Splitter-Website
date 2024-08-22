@@ -59,8 +59,7 @@ View and interact with the website: You can now explore the different pages and 
 <!-- add the screenshot of the project (Mandatory) -->
 
 
-![Screenshot](https://github.com/user-attachments/assets/1144567b-d2d9-4cde-a3ed-d9442f926cbf)
-
+![image](https://github.com/user-attachments/assets/028cad02-c4dd-49ce-ab8d-2f27f54c13bc)
 
 
 
